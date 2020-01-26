@@ -92,6 +92,7 @@
 		9ADFED9923DE051900749CE6 /* shader.frag */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = shader.frag; sourceTree = "<group>"; };
 		9ADFED9B23DE05C300749CE6 /* shader.vert */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.vert; sourceTree = "<group>"; };
 		9ADFED9C23DE05C300749CE6 /* shader.frag */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.frag; sourceTree = "<group>"; };
+		9ADFED9D23DE07A900749CE6 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		9FA6FA14390B836B8CCC3A40 /* ofxGuiContainer.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = ofxGuiContainer.cpp; path = ../../../addons/ofxGuiExtended/src/containers/ofxGuiContainer.cpp; sourceTree = SOURCE_ROOT; };
 		A3BDD97E9CCE9A2675DDC615 /* ofxGuiLabel.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ofxGuiLabel.h; path = ../../../addons/ofxGuiExtended/src/controls/ofxGuiLabel.h; sourceTree = SOURCE_ROOT; };
 		A56E0E0F06B0130FE8736CE7 /* ofxGuiContainer.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ofxGuiContainer.h; path = ../../../addons/ofxGuiExtended/src/containers/ofxGuiContainer.h; sourceTree = SOURCE_ROOT; };
@@ -709,6 +710,7 @@
 		E4B69B4A0A3A1720003C02F2 = {
 			isa = PBXGroup;
 			children = (
+				9ADFED9D23DE07A900749CE6 /* README.md */,
 				E4B6FCAD0C3E899E008CF71C /* openFrameworks-Info.plist */,
 				E4EB6923138AFD0F00A09F29 /* Project.xcconfig */,
 				9ADFED9223DE051900749CE6 /* bin */,
