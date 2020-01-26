@@ -1,17 +1,17 @@
 dependencies: \
   /Users/nicolabertelloni/Developer/of_v0.11.0_osx/addons/ofxGuiExtended/src/containers/ofxGuiContainer.cpp \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/graphics/ofGraphics.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/utils/ofConstants.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/graphics/ofGraphics.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/utils/ofConstants.h \
   ../../../libs/glew/include/GL/glew.h \
   ../../../libs/tess2/include/tesselator.h \
   ../../../libs/openFrameworks/graphics/ofGraphicsBaseTypes.h \
   ../../../libs/openFrameworks/graphics/ofGraphicsConstants.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/math/ofMathConstants.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/math/ofMathConstants.h \
   ../../../libs/glm/include/glm/fwd.hpp \
   ../../../libs/glm/include/glm/detail/qualifier.hpp \
   ../../../libs/glm/include/glm/detail/setup.hpp \
   ../../../libs/glm/include/glm/detail/../simd/platform.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/types/ofColor.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/types/ofColor.h \
   ../../../libs/glm/include/glm/common.hpp \
   ../../../libs/glm/include/glm/detail/_fixes.hpp \
   ../../../libs/glm/include/glm/detail/func_common.inl \
@@ -29,7 +29,7 @@ dependencies: \
   ../../../libs/glm/include/glm/detail/type_vec4.hpp \
   ../../../libs/glm/include/glm/detail/type_vec4.inl \
   ../../../libs/glm/include/glm/detail/_vectorize.hpp \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/types/ofRectangle.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/types/ofRectangle.h \
   ../../../libs/glm/include/glm/vec3.hpp \
   ../../../libs/glm/include/glm/./ext/vector_bool3.hpp \
   ../../../libs/glm/include/glm/./ext/../detail/type_vec3.hpp \
@@ -56,20 +56,20 @@ dependencies: \
   ../../../libs/glm/include/glm/./ext/vector_uint2_precision.hpp \
   ../../../addons/ofxGuiExtended/src/containers/ofxGuiContainer.h \
   ../../../addons/ofxGuiExtended/src/containers/../ofxGuiElement.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/types/ofParameter.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/events/ofEvents.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/types/ofParameter.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/events/ofEvents.h \
   ../../../libs/openFrameworks/events/ofEventUtils.h \
   ../../../libs/openFrameworks/events/ofEvent.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/utils/ofTimer.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/utils/ofTimer.h \
   ../../../libs/openFrameworks/utils/ofConstants.h \
   ../../../libs/openFrameworks/utils/ofUtils.h \
   ../../../libs/utf8/include/utf8.h \
   ../../../libs/utf8/include/utf8/checked.h \
   ../../../libs/utf8/include/utf8/core.h \
   ../../../libs/utf8/include/utf8/unchecked.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/utils/ofFpsCounter.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/utils/ofFpsCounter.h \
   ../../../libs/openFrameworks/types/ofPoint.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/math/ofVec3f.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/math/ofVec3f.h \
   ../../../libs/openFrameworks/math/ofVec2f.h \
   ../../../libs/openFrameworks/math/ofMathConstants.h \
   ../../../libs/openFrameworks/math/ofVec4f.h \
@@ -88,7 +88,7 @@ dependencies: \
   ../../../libs/glm/include/glm/./ext/vector_uint4_precision.hpp \
   ../../../libs/openFrameworks/types/ofRectangle.h \
   ../../../libs/openFrameworks/types/ofColor.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/utils/ofLog.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/utils/ofLog.h \
   ../../../libs/openFrameworks/utils/ofFileUtils.h \
   ../../../libs/boost/include/boost/filesystem.hpp \
   ../../../libs/boost/include/boost/filesystem/config.hpp \
@@ -486,13 +486,13 @@ dependencies: \
   ../../../libs/boost/include/boost/filesystem/convenience.hpp \
   ../../../libs/boost/include/boost/filesystem/string_file.hpp \
   ../../../libs/boost/include/boost/filesystem/fstream.hpp \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/graphics/ofTrueTypeFont.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/graphics/ofTrueTypeFont.h \
   ../../../libs/openFrameworks/graphics/ofPath.h \
   ../../../libs/openFrameworks/graphics/ofPolyline.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/math/ofVec2f.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/math/ofVec4f.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/math/ofVec2f.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/math/ofVec4f.h \
   ../../../libs/openFrameworks/graphics/ofPolyline.inl \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/math/ofVectorMath.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/math/ofVectorMath.h \
   ../../../libs/glm/include/glm/mat3x3.hpp \
   ../../../libs/glm/include/glm/./ext/matrix_double3x3.hpp \
   ../../../libs/glm/include/glm/./ext/../detail/type_mat3x3.hpp \
@@ -802,32 +802,32 @@ dependencies: \
   ../../../libs/openFrameworks/math/ofMatrix3x3.h \
   ../../../libs/openFrameworks/math/ofMatrix4x4.h \
   ../../../libs/openFrameworks/math/ofQuaternion.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/app/ofAppRunner.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/app/ofAppRunner.h \
   ../../../libs/openFrameworks/app/ofWindowSettings.h \
   ../../../libs/openFrameworks/app/ofMainLoop.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/math/ofMath.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/gl/ofVboMesh.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/3d/ofMesh.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/gl/ofGLUtils.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/graphics/ofGraphicsConstants.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/math/ofMath.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/gl/ofVboMesh.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/3d/ofMesh.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/gl/ofGLUtils.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/graphics/ofGraphicsConstants.h \
   ../../../libs/openFrameworks/3d/ofMesh.inl \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/graphics/ofGraphicsBaseTypes.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/graphics/ofGraphicsBaseTypes.h \
   ../../../libs/openFrameworks/gl/ofVbo.h \
   ../../../libs/openFrameworks/gl/ofBufferObject.h \
   ../../../libs/openFrameworks/graphics/ofTessellator.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/gl/ofTexture.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/gl/ofTexture.h \
   ../../../libs/openFrameworks/graphics/ofPixels.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/utils/ofUtils.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/graphics/ofBitmapFont.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/utils/ofUtils.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/graphics/ofBitmapFont.h \
   ../../../libs/openFrameworks/graphics/ofGraphics.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/utils/ofJson.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/utils/ofJson.h \
   ../../../libs/json/include/json.hpp \
   ../../../addons/ofxGuiExtended/src/DOM/Element.h \
   ../../../addons/ofxGuiExtended/src/DOM/Events.h \
   ../../../addons/ofxGuiExtended/src/DOM/Exceptions.h \
   ../../../addons/ofxGuiExtended/src/DOM/Types.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/types/ofPoint.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/types/ofTypes.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/types/ofPoint.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/types/ofTypes.h \
   ../../../addons/ofxGuiExtended/src/DOM/EventTarget.h \
   ../../../addons/ofxGuiExtended/src/containers/../controls/ofxGuiSlider.h \
   ../../../addons/ofxGuiExtended/src/controls/../ofxGuiElement.h \
@@ -836,12 +836,12 @@ dependencies: \
   ../../../addons/ofxGuiExtended/src/containers/../controls/ofxGuiButton.h \
   ../../../addons/ofxGuiExtended/src/controls/ofxGuiToggle.h \
   ../../../addons/ofxGuiExtended/src/containers/../controls/ofxGuiLabel.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/types/ofParameterGroup.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/types/ofParameterGroup.h \
   ../../../libs/openFrameworks/types/ofParameter.h \
   ../../../addons/ofxGuiExtended/src/containers/ofxGuiPanel.h \
   ../../../addons/ofxGuiExtended/src/containers/ofxGuiGroup.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/graphics/ofImage.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/gl/ofGLBaseTypes.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/graphics/ofImage.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/gl/ofGLBaseTypes.h \
   ../../../addons/ofxGuiExtended/src/containers/ofxGuiSliderGroup.h \
   ../../../addons/ofxGuiExtended/src/containers/ofxGuiTabs.h \
   ../../../addons/ofxGuiExtended/src/containers/ofxGuiMenu.h \
@@ -850,70 +850,70 @@ dependencies: \
   ../../../addons/ofxGuiExtended/src/containers/../controls/ofxGuiFpsPlotter.h \
   ../../../addons/ofxGuiExtended/src/controls/ofxGuiValuePlotter.h \
   ../../../addons/ofxGuiExtended/src/containers/../view/JsonConfigParser.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/ofMain.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/utils/ofFileUtils.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/utils/ofSystemUtils.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/utils/ofURLFileLoader.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/utils/ofThread.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/utils/ofThreadChannel.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/utils/ofXml.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/ofMain.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/utils/ofFileUtils.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/utils/ofSystemUtils.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/utils/ofURLFileLoader.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/utils/ofThread.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/utils/ofThreadChannel.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/utils/ofXml.h \
   ../../../libs/pugixml/include/pugixml.hpp \
   ../../../libs/pugixml/include/pugiconfig.hpp \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/communication/ofSerial.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/communication/ofArduino.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/communication/ofSerial.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/communication/ofArduino.h \
   ../../../libs/openFrameworks/communication/ofSerial.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/gl/ofFbo.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/gl/ofFbo.h \
   ../../../libs/openFrameworks/gl/ofTexture.h \
   ../../../libs/openFrameworks/gl/ofGLBaseTypes.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/gl/ofGLRenderer.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/graphics/ofPolyline.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/graphics/of3dGraphics.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/3d/of3dPrimitives.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/gl/ofGLRenderer.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/graphics/ofPolyline.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/graphics/of3dGraphics.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/3d/of3dPrimitives.h \
   ../../../libs/openFrameworks/3d/ofMesh.h \
   ../../../libs/openFrameworks/3d/ofNode.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/utils/ofMatrixStack.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/graphics/ofPath.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/gl/ofLight.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/3d/ofNode.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/gl/ofMaterial.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/utils/ofMatrixStack.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/graphics/ofPath.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/gl/ofLight.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/3d/ofNode.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/gl/ofMaterial.h \
   ../../../libs/openFrameworks/gl/ofShader.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/gl/ofShader.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/gl/ofVbo.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/graphics/ofCairoRenderer.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/gl/ofShader.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/gl/ofVbo.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/graphics/ofCairoRenderer.h \
   ../../../libs/cairo/include/cairo/cairo.h \
   ../../../libs/cairo/include/cairo/cairo-version.h \
   ../../../libs/cairo/include/cairo/cairo-features.h \
   ../../../libs/cairo/include/cairo/cairo-deprecated.h \
   ../../../libs/openFrameworks/graphics/of3dGraphics.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/graphics/ofPixels.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/graphics/ofRendererCollection.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/graphics/ofTessellator.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/app/ofBaseApp.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/sound/ofSoundBaseTypes.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/app/ofAppBaseWindow.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/app/ofWindowSettings.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/app/ofMainLoop.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/app/ofAppGLFWWindow.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/graphics/ofPixels.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/graphics/ofRendererCollection.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/graphics/ofTessellator.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/app/ofBaseApp.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/sound/ofSoundBaseTypes.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/app/ofAppBaseWindow.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/app/ofWindowSettings.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/app/ofMainLoop.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/app/ofAppGLFWWindow.h \
   ../../../libs/openFrameworks/app/ofAppBaseWindow.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/app/ofAppGlutWindow.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/sound/ofSoundStream.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/app/ofAppGlutWindow.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/sound/ofSoundStream.h \
   ../../../libs/openFrameworks/sound/ofSoundBaseTypes.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/sound/ofSoundPlayer.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/sound/ofSoundPlayer.h \
   ../../../libs/openFrameworks/sound/ofFmodSoundPlayer.h \
   ../../../libs/fmodex/include/fmod.h \
   ../../../libs/fmodex/include/fmod_codec.h \
   ../../../libs/fmodex/include/fmod_dsp.h \
   ../../../libs/fmodex/include/fmod_memoryinfo.h \
   ../../../libs/fmodex/include/fmod_errors.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/sound/ofSoundBuffer.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/video/ofVideoGrabber.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/sound/ofSoundBuffer.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/video/ofVideoGrabber.h \
   ../../../libs/openFrameworks/video/ofVideoBaseTypes.h \
   ../../../libs/openFrameworks/video/ofAVFoundationGrabber.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/video/ofVideoPlayer.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/video/ofVideoPlayer.h \
   ../../../libs/openFrameworks/video/ofAVFoundationPlayer.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/3d/of3dUtils.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/3d/ofCamera.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/3d/ofEasyCam.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/3d/of3dUtils.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/3d/ofCamera.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/3d/ofEasyCam.h \
   ../../../libs/openFrameworks/3d/ofCamera.h \
   ../../../addons/ofxGuiExtended/src/view/../DOM/Types.h \
   ../../../addons/ofxGuiExtended/src/view/../DOM/Element.h

@@ -3,8 +3,13 @@
 //--------------------------------------------------------------
 void ofApp::setup(){
   ofSetDataPathRoot("../Resources/data/");
+  
 //  shader.load("shaders/02_strenght/shader");
-  shader.load("shaders/04_wall/shader");
+//  shader.load("shaders/04_wall/shader");
+//  shader.load("shaders/05_temperance/shader");
+//  shader.load("shaders/06_branch/shader");
+//  shader.load("shaders/08_circle/shader");
+  shader.load("shaders/09_rising_moon/shader");
 }
 
 //--------------------------------------------------------------

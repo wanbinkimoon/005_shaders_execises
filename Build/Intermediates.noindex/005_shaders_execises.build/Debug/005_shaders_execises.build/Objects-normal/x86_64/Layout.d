@@ -2,9 +2,9 @@ dependencies: \
   /Users/nicolabertelloni/Developer/of_v0.11.0_osx/addons/ofxGuiExtended/src/DOM/Layout.cpp \
   ../../../addons/ofxGuiExtended/src/DOM/Layout.h \
   ../../../addons/ofxGuiExtended/src/DOM/Types.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/types/ofPoint.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/math/ofVec3f.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/utils/ofConstants.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/types/ofPoint.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/math/ofVec3f.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/utils/ofConstants.h \
   ../../../libs/glew/include/GL/glew.h \
   ../../../libs/tess2/include/tesselator.h \
   ../../../libs/openFrameworks/math/ofVec2f.h \
@@ -56,24 +56,24 @@ dependencies: \
   ../../../libs/glm/include/glm/./ext/vector_int3_precision.hpp \
   ../../../libs/glm/include/glm/./ext/vector_uint3.hpp \
   ../../../libs/glm/include/glm/./ext/vector_uint3_precision.hpp \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/types/ofRectangle.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/types/ofTypes.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/types/ofRectangle.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/types/ofTypes.h \
   ../../../addons/ofxGuiExtended/src/DOM/Element.h \
   ../../../addons/ofxGuiExtended/src/DOM/Events.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/events/ofEvents.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/events/ofEvents.h \
   ../../../libs/openFrameworks/events/ofEventUtils.h \
   ../../../libs/openFrameworks/events/ofEvent.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/utils/ofTimer.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/utils/ofTimer.h \
   ../../../libs/openFrameworks/utils/ofConstants.h \
   ../../../libs/openFrameworks/utils/ofUtils.h \
   ../../../libs/utf8/include/utf8.h \
   ../../../libs/utf8/include/utf8/checked.h \
   ../../../libs/utf8/include/utf8/core.h \
   ../../../libs/utf8/include/utf8/unchecked.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/utils/ofFpsCounter.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/utils/ofFpsCounter.h \
   ../../../addons/ofxGuiExtended/src/DOM/Exceptions.h \
   ../../../addons/ofxGuiExtended/src/DOM/EventTarget.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/types/ofParameter.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/types/ofParameter.h \
   ../../../libs/openFrameworks/types/ofPoint.h \
   ../../../libs/openFrameworks/types/ofRectangle.h \
   ../../../libs/openFrameworks/types/ofColor.h \
@@ -89,7 +89,7 @@ dependencies: \
   ../../../libs/glm/include/glm/detail/type_vec3.hpp \
   ../../../libs/glm/include/glm/detail/type_vec4.hpp \
   ../../../libs/glm/include/glm/detail/_vectorize.hpp \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/utils/ofLog.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/utils/ofLog.h \
   ../../../libs/openFrameworks/utils/ofFileUtils.h \
   ../../../libs/boost/include/boost/filesystem.hpp \
   ../../../libs/boost/include/boost/filesystem/config.hpp \

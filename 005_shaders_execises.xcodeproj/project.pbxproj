@@ -93,6 +93,14 @@
 		9ADFED9B23DE05C300749CE6 /* shader.vert */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.vert; sourceTree = "<group>"; };
 		9ADFED9C23DE05C300749CE6 /* shader.frag */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.frag; sourceTree = "<group>"; };
 		9ADFED9D23DE07A900749CE6 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		9ADFED9F23DE094B00749CE6 /* shader.vert */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.vert; sourceTree = "<group>"; };
+		9ADFEDA023DE094B00749CE6 /* shader.frag */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.frag; sourceTree = "<group>"; };
+		9ADFEDA223DE0C2600749CE6 /* shader.vert */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.vert; sourceTree = "<group>"; };
+		9ADFEDA323DE0C2600749CE6 /* shader.frag */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.frag; sourceTree = "<group>"; };
+		9ADFEDA523DE0DDC00749CE6 /* shader.vert */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.vert; sourceTree = "<group>"; };
+		9ADFEDA623DE0DDC00749CE6 /* shader.frag */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.frag; sourceTree = "<group>"; };
+		9ADFEDA823DE100300749CE6 /* shader.vert */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.vert; sourceTree = "<group>"; };
+		9ADFEDA923DE100300749CE6 /* shader.frag */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.frag; sourceTree = "<group>"; };
 		9FA6FA14390B836B8CCC3A40 /* ofxGuiContainer.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = ofxGuiContainer.cpp; path = ../../../addons/ofxGuiExtended/src/containers/ofxGuiContainer.cpp; sourceTree = SOURCE_ROOT; };
 		A3BDD97E9CCE9A2675DDC615 /* ofxGuiLabel.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ofxGuiLabel.h; path = ../../../addons/ofxGuiExtended/src/controls/ofxGuiLabel.h; sourceTree = SOURCE_ROOT; };
 		A56E0E0F06B0130FE8736CE7 /* ofxGuiContainer.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ofxGuiContainer.h; path = ../../../addons/ofxGuiExtended/src/containers/ofxGuiContainer.h; sourceTree = SOURCE_ROOT; };
@@ -363,6 +371,10 @@
 			children = (
 				9ADFED9723DE051900749CE6 /* 02_strenght */,
 				9ADFED9A23DE05C300749CE6 /* 04_wall */,
+				9ADFED9E23DE094B00749CE6 /* 05_temperance */,
+				9ADFEDA123DE0C2600749CE6 /* 06_branch */,
+				9ADFEDA423DE0DDC00749CE6 /* 08_circle */,
+				9ADFEDA723DE100300749CE6 /* 09_rising_moon */,
 			);
 			path = shaders;
 			sourceTree = "<group>";
@@ -384,6 +396,43 @@
 			);
 			path = 04_wall;
 			sourceTree = "<group>";
+		};
+		9ADFED9E23DE094B00749CE6 /* 05_temperance */ = {
+			isa = PBXGroup;
+			children = (
+				9ADFED9F23DE094B00749CE6 /* shader.vert */,
+				9ADFEDA023DE094B00749CE6 /* shader.frag */,
+			);
+			path = 05_temperance;
+			sourceTree = "<group>";
+		};
+		9ADFEDA123DE0C2600749CE6 /* 06_branch */ = {
+			isa = PBXGroup;
+			children = (
+				9ADFEDA223DE0C2600749CE6 /* shader.vert */,
+				9ADFEDA323DE0C2600749CE6 /* shader.frag */,
+			);
+			path = 06_branch;
+			sourceTree = "<group>";
+		};
+		9ADFEDA423DE0DDC00749CE6 /* 08_circle */ = {
+			isa = PBXGroup;
+			children = (
+				9ADFEDA523DE0DDC00749CE6 /* shader.vert */,
+				9ADFEDA623DE0DDC00749CE6 /* shader.frag */,
+			);
+			path = 08_circle;
+			sourceTree = "<group>";
+		};
+		9ADFEDA723DE100300749CE6 /* 09_rising_moon */ = {
+			isa = PBXGroup;
+			children = (
+				9ADFEDA823DE100300749CE6 /* shader.vert */,
+				9ADFEDA923DE100300749CE6 /* shader.frag */,
+			);
+			name = 09_rising_moon;
+			path = bin/data/shaders/09_rising_moon;
+			sourceTree = SOURCE_ROOT;
 		};
 		BB4B014C10F69532006C3DED /* addons */ = {
 			isa = PBXGroup;

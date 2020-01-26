@@ -3,20 +3,20 @@ dependencies: \
   ../../../addons/ofxGuiExtended/src/DOM/Document.h \
   ../../../addons/ofxGuiExtended/src/DOM/Element.h \
   ../../../addons/ofxGuiExtended/src/DOM/Events.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/events/ofEvents.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/utils/ofConstants.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/events/ofEvents.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/utils/ofConstants.h \
   ../../../libs/glew/include/GL/glew.h \
   ../../../libs/tess2/include/tesselator.h \
   ../../../libs/openFrameworks/events/ofEventUtils.h \
   ../../../libs/openFrameworks/events/ofEvent.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/utils/ofTimer.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/utils/ofTimer.h \
   ../../../libs/openFrameworks/utils/ofConstants.h \
   ../../../libs/openFrameworks/utils/ofUtils.h \
   ../../../libs/utf8/include/utf8.h \
   ../../../libs/utf8/include/utf8/checked.h \
   ../../../libs/utf8/include/utf8/core.h \
   ../../../libs/utf8/include/utf8/unchecked.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/utils/ofFpsCounter.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/utils/ofFpsCounter.h \
   ../../../libs/glm/include/glm/vec2.hpp \
   ../../../libs/glm/include/glm/./ext/vector_bool2.hpp \
   ../../../libs/glm/include/glm/./ext/../detail/type_vec2.hpp \
@@ -36,8 +36,8 @@ dependencies: \
   ../../../libs/glm/include/glm/./ext/vector_uint2_precision.hpp \
   ../../../addons/ofxGuiExtended/src/DOM/Exceptions.h \
   ../../../addons/ofxGuiExtended/src/DOM/Types.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/types/ofPoint.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/math/ofVec3f.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/types/ofPoint.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/math/ofVec3f.h \
   ../../../libs/openFrameworks/math/ofVec2f.h \
   ../../../libs/openFrameworks/math/ofMathConstants.h \
   ../../../libs/glm/include/glm/fwd.hpp \
@@ -70,10 +70,10 @@ dependencies: \
   ../../../libs/glm/include/glm/./ext/vector_int3_precision.hpp \
   ../../../libs/glm/include/glm/./ext/vector_uint3.hpp \
   ../../../libs/glm/include/glm/./ext/vector_uint3_precision.hpp \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/types/ofRectangle.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/types/ofTypes.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/types/ofRectangle.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/types/ofTypes.h \
   ../../../addons/ofxGuiExtended/src/DOM/EventTarget.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/types/ofParameter.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/types/ofParameter.h \
   ../../../libs/openFrameworks/types/ofPoint.h \
   ../../../libs/openFrameworks/types/ofRectangle.h \
   ../../../libs/openFrameworks/types/ofColor.h \
@@ -87,7 +87,7 @@ dependencies: \
   ../../../libs/glm/include/glm/./ext/../detail/type_vec1.hpp \
   ../../../libs/glm/include/glm/./ext/../detail/type_vec1.inl \
   ../../../libs/glm/include/glm/./ext/../detail/_vectorize.hpp \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/utils/ofLog.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/utils/ofLog.h \
   ../../../libs/openFrameworks/utils/ofFileUtils.h \
   ../../../libs/boost/include/boost/filesystem.hpp \
   ../../../libs/boost/include/boost/filesystem/config.hpp \
@@ -485,11 +485,11 @@ dependencies: \
   ../../../libs/boost/include/boost/filesystem/convenience.hpp \
   ../../../libs/boost/include/boost/filesystem/string_file.hpp \
   ../../../libs/boost/include/boost/filesystem/fstream.hpp \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/graphics/ofGraphics.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/graphics/ofGraphics.h \
   ../../../libs/openFrameworks/graphics/ofGraphicsBaseTypes.h \
   ../../../libs/openFrameworks/graphics/ofGraphicsConstants.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/math/ofMathConstants.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/types/ofColor.h \
-  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005_shaders_execises/../../../libs/openFrameworks/app/ofAppRunner.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/math/ofMathConstants.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/types/ofColor.h \
+  /Users/nicolabertelloni/Developer/of_v0.11.0_osx/apps/proofs/005\ -\ shaders_execises/../../../libs/openFrameworks/app/ofAppRunner.h \
   ../../../libs/openFrameworks/app/ofWindowSettings.h \
   ../../../libs/openFrameworks/app/ofMainLoop.h
