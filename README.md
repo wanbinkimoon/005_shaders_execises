@@ -18,3 +18,9 @@ Based on Pixel Spirit by PG Vivo.
 
 ## 09 Rising Moon
 ![screen](./screens/09.png)
+
+## 10 Square
+![screen](./screens/10.png)
+
+## 10B Square
+![screen](./screens/10b.png)

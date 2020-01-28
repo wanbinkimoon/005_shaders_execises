@@ -9,7 +9,9 @@ void ofApp::setup(){
 //  shader.load("shaders/05_temperance/shader");
 //  shader.load("shaders/06_branch/shader");
 //  shader.load("shaders/08_circle/shader");
-  shader.load("shaders/09_rising_moon/shader");
+//  shader.load("shaders/09_rising_moon/shader");
+//  shader.load("shaders/10_square/shader");
+  shader.load("shaders/10b_square/shader");
 }
 
 //--------------------------------------------------------------
@@ -20,6 +22,8 @@ void ofApp::draw(){
   shader.begin();
   shader.setUniform1f("u_time", ofGetElapsedTimef());
   shader.setUniform2f("u_resolution", ofGetWidth(), ofGetHeight());
+  shader.setUniform2f("u_mouse", ofGetMouseX(), ofGetMouseY());
+  
   ofDrawRectangle(0, 0, ofGetWidth(), ofGetHeight());
   shader.end();
 }

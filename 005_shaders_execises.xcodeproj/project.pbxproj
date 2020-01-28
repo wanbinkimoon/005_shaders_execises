@@ -101,6 +101,10 @@
 		9ADFEDA623DE0DDC00749CE6 /* shader.frag */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.frag; sourceTree = "<group>"; };
 		9ADFEDA823DE100300749CE6 /* shader.vert */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.vert; sourceTree = "<group>"; };
 		9ADFEDA923DE100300749CE6 /* shader.frag */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.frag; sourceTree = "<group>"; };
+		9ADFEDBF23DF964C00749CE6 /* shader.vert */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.vert; sourceTree = "<group>"; };
+		9ADFEDC023DF964C00749CE6 /* shader.frag */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.frag; sourceTree = "<group>"; };
+		9ADFEDC223DFB2C300749CE6 /* shader.vert */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.vert; sourceTree = "<group>"; };
+		9ADFEDC323DFB2C300749CE6 /* shader.frag */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.frag; sourceTree = "<group>"; };
 		9FA6FA14390B836B8CCC3A40 /* ofxGuiContainer.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = ofxGuiContainer.cpp; path = ../../../addons/ofxGuiExtended/src/containers/ofxGuiContainer.cpp; sourceTree = SOURCE_ROOT; };
 		A3BDD97E9CCE9A2675DDC615 /* ofxGuiLabel.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ofxGuiLabel.h; path = ../../../addons/ofxGuiExtended/src/controls/ofxGuiLabel.h; sourceTree = SOURCE_ROOT; };
 		A56E0E0F06B0130FE8736CE7 /* ofxGuiContainer.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ofxGuiContainer.h; path = ../../../addons/ofxGuiExtended/src/containers/ofxGuiContainer.h; sourceTree = SOURCE_ROOT; };
@@ -375,6 +379,8 @@
 				9ADFEDA123DE0C2600749CE6 /* 06_branch */,
 				9ADFEDA423DE0DDC00749CE6 /* 08_circle */,
 				9ADFEDA723DE100300749CE6 /* 09_rising_moon */,
+				9ADFEDBE23DF964C00749CE6 /* 10_square */,
+				9ADFEDC123DFB2C300749CE6 /* 10c_square */,
 			);
 			path = shaders;
 			sourceTree = "<group>";
@@ -433,6 +439,24 @@
 			name = 09_rising_moon;
 			path = bin/data/shaders/09_rising_moon;
 			sourceTree = SOURCE_ROOT;
+		};
+		9ADFEDBE23DF964C00749CE6 /* 10_square */ = {
+			isa = PBXGroup;
+			children = (
+				9ADFEDBF23DF964C00749CE6 /* shader.vert */,
+				9ADFEDC023DF964C00749CE6 /* shader.frag */,
+			);
+			path = 10_square;
+			sourceTree = "<group>";
+		};
+		9ADFEDC123DFB2C300749CE6 /* 10c_square */ = {
+			isa = PBXGroup;
+			children = (
+				9ADFEDC223DFB2C300749CE6 /* shader.vert */,
+				9ADFEDC323DFB2C300749CE6 /* shader.frag */,
+			);
+			path = 10c_square;
+			sourceTree = "<group>";
 		};
 		BB4B014C10F69532006C3DED /* addons */ = {
 			isa = PBXGroup;
