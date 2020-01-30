@@ -11,9 +11,10 @@ void ofApp::setup(){
 //  shader.load("shaders/08_circle/shader");
 //  shader.load("shaders/09_rising_moon/shader");
 //  shader.load("shaders/10_square/shader");
-  shader.load("shaders/10b_square/shader");
+//  shader.load("shaders/10c_square/shader");
+  shader.load("shaders/11_cross/shader");
 }
-
+//
 //--------------------------------------------------------------
 void ofApp::update(){}
 

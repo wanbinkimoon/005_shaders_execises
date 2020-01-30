@@ -86,6 +86,8 @@
 		8C31FA0FC99249CD4DEE3F7B /* ofxDOMBoxLayout.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ofxDOMBoxLayout.h; path = ../../../addons/ofxGuiExtended/src/view/ofxDOMBoxLayout.h; sourceTree = SOURCE_ROOT; };
 		8F51CAC697C66C42538187D1 /* ofxGuiExtended.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ofxGuiExtended.h; path = ../../../addons/ofxGuiExtended/src/ofxGuiExtended.h; sourceTree = SOURCE_ROOT; };
 		950B86B6711F3EE2FB964C32 /* ofxGuiFunctionPlotter.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = ofxGuiFunctionPlotter.cpp; path = ../../../addons/ofxGuiExtended/src/controls/ofxGuiFunctionPlotter.cpp; sourceTree = SOURCE_ROOT; };
+		9A2FEBE223E332DD009907A0 /* shader.vert */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.vert; sourceTree = "<group>"; };
+		9A2FEBE323E332DD009907A0 /* shader.frag */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.frag; sourceTree = "<group>"; };
 		9ADFED9323DE051900749CE6 /* 005_shaders_execisesDebug.app */ = {isa = PBXFileReference; lastKnownFileType = wrapper.application; path = 005_shaders_execisesDebug.app; sourceTree = "<group>"; };
 		9ADFED9523DE051900749CE6 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
 		9ADFED9823DE051900749CE6 /* shader.vert */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = shader.vert; sourceTree = "<group>"; };
@@ -352,6 +354,16 @@
 			name = local_addons;
 			sourceTree = "<group>";
 		};
+		9A2FEBE123E332DD009907A0 /* 11_cross */ = {
+			isa = PBXGroup;
+			children = (
+				9A2FEBE223E332DD009907A0 /* shader.vert */,
+				9A2FEBE323E332DD009907A0 /* shader.frag */,
+			);
+			name = 11_cross;
+			path = shaders/11_cross;
+			sourceTree = "<group>";
+		};
 		9ADFED9223DE051900749CE6 /* bin */ = {
 			isa = PBXGroup;
 			children = (
@@ -366,6 +378,7 @@
 			children = (
 				9ADFED9523DE051900749CE6 /* .gitkeep */,
 				9ADFED9623DE051900749CE6 /* shaders */,
+				9A2FEBE123E332DD009907A0 /* 11_cross */,
 			);
 			path = data;
 			sourceTree = "<group>";
